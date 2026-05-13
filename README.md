@@ -50,11 +50,10 @@ A bike-rental dataset (`Query1` table) with one row per hour:
 
 ## Screenshots
 
-> Replace these with actual PNG screenshots once you've taken them in Power BI Desktop.
-
 ![image alt](https://github.com/bigruntown/Edward-Bike-Revenue-Analysis-/blob/main/Screenshot.jpg?raw=true)
 
-![Season & rider type breakdown](screenshots/season-riders.png)
+![image alt](https://github.com/bigruntown/Edward-Bike-Revenue-Analysis-/blob/main/season%20rider%20screenshot.jpg?raw=true)
+
 
 ## How to view this project
 

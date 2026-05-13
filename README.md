@@ -60,3 +60,9 @@ A bike-rental dataset (`Query1` table) with one row per hour:
 1. Download `Edward-bike-Revenue.pbix` from this repo.
 2. Open it in **Power BI Desktop** (free download from Microsoft).
 3. Use the slicers to filter by season,
+
+## Use the slicers to filter by season, weekday, or rider type.
+
+---
+
+*Built as part of the Utiva Data Science program (2026).*
